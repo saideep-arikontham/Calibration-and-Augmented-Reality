@@ -102,8 +102,8 @@ Key press functionality of OpenCV plays a very important role in this project. B
 - `s or S`: To save the frame as a calibration frame
 - `p`: To continuously project 3D axis onto the top left corner of the checkerboard pattern.
 - `t`: To display hallow pyramid, house and Letter "S" with just connected edges.
-- `f`: To display filled letter "S".
-- `r`: To replace the target checkerboard pattern with `./images/sand.jpg` image.
+- `f`: To display filled letter "S" (Extension).
+- `r`: To replace the target checkerboard pattern with `./images/sand.jpg` image. A colored pyramid will also be moving over the new sand target bouncing between the walls (Extension).
 - `q`: To stop the program. 
 
 2. For `feature.cpp`:
