@@ -126,6 +126,12 @@ More information about the internal implementation along with outputs is include
 
 ---
 
+## Working video links
+
+Projected axis : https://drive.google.com/file/d/1RiJsdgwiLAtEuEGT9uX-2zzIQ3oFWfcz/view?usp=drive_link
+System Overview : https://drive.google.com/file/d/1B8MRUBZs8Pu27Epee-lSTIBC0y15cYXt/view?usp=drive_link
+System Working : https://drive.google.com/file/d/1Vl7TV4worDgafOCeEfI5wXEqllEn8zGE/view?usp=drive_link
+
 ## Note
 
 Not using any time travel days.
